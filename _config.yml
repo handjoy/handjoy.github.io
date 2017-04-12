@@ -3,8 +3,8 @@ description: HandJoy Wiki build by LONG HAUL's theme
 
 url: https://handjoy.github.io
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "wiki/page:num/"
+permalink: wiki/:title/
 
 markdown: kramdown
 highlighter: rouge
